@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/afs/andrew.cmu.edu/usr18/psuresh2/private/cadss/cadss-s22-group5/tmpProc'
+let g:netrw_dirhist_2='/afs/andrew.cmu.edu/usr18/psuresh2/private/pca/Assignment-3/examples'
+let g:netrw_dirhist_3='/afs/andrew.cmu.edu/usr18/psuresh2/private/pca/Assignment-3/code/routes'
+let g:netrw_dirhist_4='/afs/andrew.cmu.edu/usr18/psuresh2/private/pca'
+let g:netrw_dirhist_5='/afs/andrew.cmu.edu/usr18/psuresh2/private/pca/Assignment-4'
+let g:netrw_dirhist_6='/afs/andrew.cmu.edu/usr18/psuresh2/private/pca/Assignment-4/examples'
+let g:netrw_dirhist_7='/afs/andrew.cmu.edu/usr18/psuresh2/private/cadss/cadss-s22-group5/tmpCache'
+let g:netrw_dirhist_8='/afs/andrew.cmu.edu/usr18/psuresh2/private/cadss/cadss-s22-group5/coherence'
+let g:netrw_dirhist_9='/afs/andrew.cmu.edu/usr18/psuresh2/private/cadss/cadss-s22-group5/tmpCoherence'
